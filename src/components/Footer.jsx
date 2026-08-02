@@ -46,7 +46,7 @@ export default function Footer() {
           <span>© {new Date().getFullYear()} Innovators Quest · All systems nominal</span>
           <span className="flex items-center gap-2">
             <span className="h-1.5 w-1.5 rounded-full bg-neon" />
-            Built by curious minds
+            Devansh 
           </span>
         </div>
       </div>

@@ -9,7 +9,7 @@ export const navLinks = [
 ]
 
 export const hero = {
-  status: 'SYSTEM INITIALIZING',
+  status: '',
   title1: 'INNOVATORS',
   title2: 'QUEST',
   tagline: 'IGNITING INNOVATION',
