@@ -107,9 +107,9 @@ export const team = {
   subheading: 'The people behind the mission.',
   members: [
     { name: 'devansh pokhariya', role: 'Technical Head', initials: 'DP' },
-    { name: 'Hadeeq A. Kouser', role: 'Vice Chairperson', initials: 'HK' },
-    { name: 'Ritika Jain', role: 'Technical Head', initials: 'RJ' },
-    { name: 'Vivek Raj', role: 'Design Head', initials: 'VR' },
+    { name: 'Ardhra M P', role: 'Co-Secretary', initials: 'AMP' },
+    { name: 'Himangi Goyal', role: 'Finace Head', initials: 'HG' },
+    { name: 'Siddharth Agarwal ', role: 'Management Head', initials: 'SA' },
   ],
 }
 
