@@ -106,7 +106,7 @@ export const team = {
   heading: 'THE MINDS',
   subheading: 'The people behind the mission.',
   members: [
-    { name: 'Aditya Singh', role: 'Chairperson', initials: 'AS' },
+    { name: 'devansh pokhariya', role: 'Technical Head', initials: 'DP' },
     { name: 'Hadeeq A. Kouser', role: 'Vice Chairperson', initials: 'HK' },
     { name: 'Ritika Jain', role: 'Technical Head', initials: 'RJ' },
     { name: 'Vivek Raj', role: 'Design Head', initials: 'VR' },
